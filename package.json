@@ -18,6 +18,8 @@
     "typescript": "5.0.4"
   },
   "devDependencies": {
-    "@svgr/webpack": "^8.0.1"
+    "@svgr/webpack": "^8.0.1",
+    "sass": "^1.62.1",
+    "typescript-plugin-css-modules": "^5.0.1"
   }
 }

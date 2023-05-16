@@ -1,9 +1,14 @@
-import LogoSVG from "../../../public/Logo.svg";
+import LogoSVG from "../../../public/logo.svg";
 
-const Logo = () => {
+interface LogoProps {
+  width?: Number;
+  height?: Number;
+}
+
+const Logo: React.FC<LogoProps> = ({ width, height }) => {
   return (
     <div>
-      <LogoSVG />
+      <LogoSVG width={width} height={height} />
     </div>
   );
 };
