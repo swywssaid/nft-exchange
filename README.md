@@ -13,7 +13,7 @@
 <br>
 
 #### NFT 컬렉션
-- [ ] NFT 컬렉션 조회 API 요청을 통해 정보 가져오기
+- [ ] NFT 컬렉션 조회 API 요청을 통해 정보 가져오기 ([포켓몬 API로 대체](https://pokeapi.co/docs/v2#resource-listspagination-section))
 - [ ] 무한 스크롤을 통해 정보 나타내기
 
 <br><br>
