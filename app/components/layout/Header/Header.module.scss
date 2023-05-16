@@ -1,6 +1,11 @@
 .container {
   display: flex;
-  padding: 28px 0px 28px 36px;
+  padding: 20px 34px 20px 36px;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
 }
 
 .title {
@@ -9,4 +14,8 @@
   font-family: Urbanist;
   font-size: 18px;
   padding-left: 10px;
+}
+
+.profile {
+  margin-left: auto;
 }
