@@ -1,4 +1,4 @@
-import Header from "./components/layout/header/Header";
+import Header from "./components/layout/Header/Header";
 import { Urbanist } from "next/font/google";
 
 const urbanist = Urbanist({ subsets: ["latin"] });
