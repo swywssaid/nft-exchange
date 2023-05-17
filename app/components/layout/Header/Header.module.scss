@@ -17,5 +17,15 @@
 }
 
 .profile {
+  position: relative;
   margin-left: auto;
+}
+
+.modal__title {
+  width: 64px;
+  height: 16px;
+  font-weight: 700;
+  font-size: 16px;
+  padding-bottom: 20px;
+  margin-right: auto;
 }

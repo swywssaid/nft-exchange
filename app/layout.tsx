@@ -1,7 +1,7 @@
 import Header from "./components/layout/Header/Header";
 import { Urbanist } from "next/font/google";
 
-const urbanist = Urbanist({ subsets: ["latin"] });
+const urbanist = Urbanist({ weight: ["200", "400", "700"], subsets: ["latin"] });
 
 export const metadata = {
   title: "NFT",
