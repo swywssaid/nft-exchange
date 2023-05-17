@@ -1,3 +1,9 @@
+## 기술스택
+<img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=Next&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=Next&logoColor=white"/>
+
+<br><br>
+
 ## 구현목표
 
 ### NFT 컬렉션 목록 화면
