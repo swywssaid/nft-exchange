@@ -1,6 +1,5 @@
 ## 기술스택
-<img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=Next&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=Next&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"><img src="https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white"/><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white"><img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"/>
 
 <br><br>
 
@@ -44,6 +43,7 @@
 - [ ] 지갑 연결 완료 시, 프로필 및 기타 정보 변경
 
 <br><br>
+
 ## 컨벤션
 ### 브랜치 컨벤션
 - **Feature Branch** 전략을 따라 main, develop, feature 브랜치를 갖는다.
