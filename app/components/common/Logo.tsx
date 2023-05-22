@@ -1,4 +1,5 @@
-import LogoSVG from "../../../public/logo.svg";
+import LogoPNG from "../../../public/logo.png";
+import Image from "next/image";
 
 interface LogoProps {
   width?: Number;
@@ -8,7 +9,7 @@ interface LogoProps {
 const Logo: React.FC<LogoProps> = ({ width, height }) => {
   return (
     <div>
-      <LogoSVG width={width} height={height} />
+      <Image src={LogoPNG} alt="Logo PNG" width={width} height={height} />
     </div>
   );
 };
